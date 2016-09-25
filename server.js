@@ -10,8 +10,8 @@ app.get('/', function (req, res) {
 });
 
 var articleone{
-    title:'Article one I am Ravi'
-    heading:'Article one'
+    title:'Article one I am Ravi';
+    heading:'Article one';
     content: ` <p>
                 this is my first article on the webapp page
                 this is my first article on the webapp page
@@ -26,7 +26,7 @@ var articleone{
                 this is my first article on the webapp page
                 this is my first article on the webapp page
                 this is my first article on the webapp page
-            </p> `  
+            </p> ` ; 
             
 }
 function createtempalets(data)
